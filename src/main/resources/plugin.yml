@@ -1,0 +1,8 @@
+name: GreenText
+version: ${project.version}
+main: me.linckode.greentext.Main
+api-version: 1.13
+prefix: GT
+load: STARTUP
+authors: [LINCKODE]
+description: Write ">" before  a message to make it green.

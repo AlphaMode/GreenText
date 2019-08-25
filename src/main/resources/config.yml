@@ -1,0 +1,6 @@
+#False by default
+#Enable if you want only specific player to use the greentext.
+EnablePermission: false
+
+#Permission to use the greentext:
+Permission: "greentext.use"
